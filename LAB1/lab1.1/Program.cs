@@ -11,7 +11,7 @@ namespace Lab1
             // Taking Two Inputs
             Console.WriteLine("Enter The First Number : ");
             int firstNumber = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine("Enter The First Number : ");
+            Console.WriteLine("Enter The Second Number : ");
             int secondNumber = Convert.ToInt32(Console.ReadLine());
             
             // Calculating the Sum & Printing Output.
