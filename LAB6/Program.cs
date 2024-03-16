@@ -130,3 +130,4 @@ namespace LAB6
         }
     }
 }
+// That person who use this and didnot thanks me is GAY.
